@@ -14,6 +14,10 @@ module.exports = {
         montserrat: ['"Montserrat"', "sans-serif"],
         fraunces: ['"Fraunces"', "serif"],
       },
+      backgroundImage: {
+        mobile: "url('/public/img/image-product-mobile.jpg')",
+        desk: "url('/public/img/image-product-desktop.jpg')",
+      },
     },
   },
   plugins: [],
